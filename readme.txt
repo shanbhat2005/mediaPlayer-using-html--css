@@ -1,0 +1,1 @@
+this repo is a basic project created using html and css. 
